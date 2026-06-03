@@ -49,7 +49,7 @@ Aspiring **Space Research Scientist** pursuing **B.Sc. in Physics and Computer A
 
 ---
 
-## 📜 Certifications and Courses
+##  Certifications and Courses
 
 * **Biophotonics** | *SWAYAM (3 months)* – 2025  
   *Learned about the interaction of light with biological systems and its applications in imaging and diagnostics.*
@@ -58,5 +58,5 @@ Aspiring **Space Research Scientist** pursuing **B.Sc. in Physics and Computer A
 
 ---
 
-## 📄 Download Full CV
-* 📥 [Click here to view or download my official Gopika Resume.pdf](./Gopika%20Resume.pdf)
+##  Download Full CV
+*  [Click here to view or download my official Gopika Resume.pdf](./Gopika%20Resume.pdf)
