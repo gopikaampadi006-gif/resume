@@ -1,7 +1,7 @@
 # Gopika Krishnan
 **Aspiring Space Research Scientist**  
  Thiruvananthapuram, Kerala, India  
- gopikaampadi006@gmail.com | www.linkedin.com/in/gopika-krishnan-b47898379 | gopikaampadi006-gif
+ gopikaampadi006@gmail.com | www.linkedin.com/in/gopika-krishnan-b47898379 | https://github.com/gopikaampadi006-gif
 
 ---
 
